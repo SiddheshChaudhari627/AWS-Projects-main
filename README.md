@@ -168,7 +168,7 @@ Each project PDF contains:
 
 # 👨‍💻 About Me
 
-Hi, I'm **Siddhesh Chaudhari** 👋
+Hi, I'm **Kishor Patil** 👋
 
 🚀 Aspiring DevOps & Cloud Engineer passionate about:
 
@@ -183,7 +183,7 @@ Hi, I'm **Siddhesh Chaudhari** 👋
 
 # 🌐 Connect With Me
 
-📧 Email: siddheshchaudhari627@gmail.com 
+📧 Email: kishorkankraj5026@gmail.com 
  
 ---
 
