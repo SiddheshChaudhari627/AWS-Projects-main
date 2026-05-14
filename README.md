@@ -168,7 +168,7 @@ Each project PDF contains:
 
 # 👨‍💻 About Me
 
-Hi, I'm **Hitesh Mahale** 👋
+Hi, I'm **Siddhesh Chaudhari** 👋
 
 🚀 Aspiring DevOps & Cloud Engineer passionate about:
 
@@ -183,10 +183,8 @@ Hi, I'm **Hitesh Mahale** 👋
 
 # 🌐 Connect With Me
 
-📧 Email: mahalehitesh746@gmail.com 
-
-💼 LinkedIn: https://www.linkedin.com/in/hitesh-mahale-144431261 
-
+📧 Email: siddheshchaudhari627@gmail.com 
+ 
 ---
 
 # ⭐ Support This Repository
